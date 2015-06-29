@@ -313,10 +313,10 @@
                               button_title="#afafaf"
                               button_text="#a9a9a9"
                               button_text_hi="#ffffff"
-                              tab_active="#4a4370"
+                              tab_active="#372285"
                               tab_inactive="#292929"
-                              tab_back="#161616cd"
-                              tab_outline="#000000">
+                              tab_back="#18181800"
+                              tab_outline="#0e0e0e">
             <gradients>
               <ThemeGradientColors show_grad="FALSE"
                                    gradient="#242424"
@@ -364,7 +364,7 @@
         <space>
           <ThemeSpaceGeneric back="#242424"
                              title="#9c9c9c"
-                             text="#8b8b8b"
+                             text="#818181"
                              text_hi="#ffffff"
                              header="#454545"
                              header_text="#acacac"
@@ -438,36 +438,36 @@
     <nla_editor>
       <ThemeNLAEditor grid="#313131"
                       view_sliders="#969696"
-                      active_action="#00000000"
+                      active_action="#562abb49"
                       active_action_unset="#00000000"
-                      strips="#0c0a0a"
-                      strips_selected="#6c22bb"
+                      strips="#191919"
+                      strips_selected="#562abb"
                       transition_strips="#000000"
                       transition_strips_selected="#000000"
                       meta_strips="#000000"
-                      meta_strips_selected="#000000"
+                      meta_strips_selected="#030303"
                       sound_strips="#000000"
                       sound_strips_selected="#000000"
                       tweak="#000000"
                       tweak_duplicate="#000000"
-                      keyframe_border="#000000ff"
-                      keyframe_border_selected="#000000ff"
+                      keyframe_border="#9a9a9aff"
+                      keyframe_border_selected="#cececeff"
                       frame_current="#652aca">
         <space>
           <ThemeSpaceGeneric back="#242424"
                              title="#000000"
-                             text="#8b8b8b"
+                             text="#818181"
                              text_hi="#ffffff"
                              header="#454545"
-                             header_text="#c7c7c7"
+                             header_text="#a1a1a1"
                              header_text_hi="#ffffff"
                              button="#1f1f1fd1"
                              button_title="#000000"
                              button_text="#000000"
                              button_text_hi="#ffffff"
-                             tab_active="#727272"
+                             tab_active="#757575"
                              tab_inactive="#646464"
-                             tab_back="#464646ff"
+                             tab_back="#494949ff"
                              tab_outline="#3c3c3c">
             <panelcolors>
               <ThemePanelColors header="#00000000"
@@ -480,9 +480,9 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric list="#3c3b37"
-                                 list_title="#000000"
-                                 list_text="#a3a3a3"
-                                 list_text_hi="#cf2eff">
+                                 list_title="#ffffff"
+                                 list_text="#bbbbbb"
+                                 list_text_hi="#ffffff">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeNLAEditor>
@@ -514,7 +514,7 @@
         <space>
           <ThemeSpaceGeneric back="#242424"
                              title="#9c9c9c"
-                             text="#8b8b8b"
+                             text="#818181"
                              text_hi="#a1a1a1"
                              header="#454545"
                              header_text="#c7c7c7"
@@ -736,7 +736,7 @@
         <space>
           <ThemeSpaceGeneric back="#242424"
                              title="#000000"
-                             text="#6e6e6e"
+                             text="#818181"
                              text_hi="#ffffff"
                              header="#474747"
                              header_text="#acacac"
@@ -855,7 +855,7 @@
       <ThemeOutliner match="#337f33"
                      selected_highlight="#4c3d83">
         <space>
-          <ThemeSpaceGeneric back="#383838"
+          <ThemeSpaceGeneric back="#2a2a2a"
                              title="#000000"
                              text="#cccccc"
                              text_hi="#7863ce"
